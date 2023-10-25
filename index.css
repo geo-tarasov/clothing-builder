@@ -1,0 +1,20 @@
+.total_price_block {
+    font-family: FuturaPT,Arial,sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    align-items: flex-end;
+}
+
+.total_price_block p:first-child {
+    margin-right: 3px;
+}
+
+.t835__capture-form {  
+    font-family: 'Roboto',Arial,sans-serif;
+}
+
+.is-hidden-block {
+    display: none;
+}
